@@ -262,7 +262,7 @@ const Dispatcher = () => {
           <thead>
             <tr>
               <th>Sr.</th>
-              <th>dispatcher ID</th>
+              <th>Dispatcher ID</th>
               <th>Name</th>
               <th>Contact</th>
               <th>Email</th>
