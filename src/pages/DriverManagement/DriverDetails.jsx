@@ -57,7 +57,7 @@ const DriverDetails = () => {
           <div className="driverdetails-card">
             <div className="user-pic-text">
               <img src={UserPic} alt="User" className="user-pic" />
-              <div className="driver-info">
+              <div className="driverinfo">
                 <p className="driver-name">{updatedData.name}</p>
                 <p className="driver-reviews">
                   {updatedData.rating} ⭐ {updatedData.reviews} Reviews

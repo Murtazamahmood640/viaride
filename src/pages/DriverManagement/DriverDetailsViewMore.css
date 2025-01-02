@@ -53,7 +53,7 @@ body {
     height: auto;
 }
 
-.driver-info {
+.driverinfo {
     display: flex;
     flex-direction: column;
     justify-content: center;
