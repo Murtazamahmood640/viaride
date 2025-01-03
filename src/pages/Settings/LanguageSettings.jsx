@@ -49,9 +49,7 @@ const LanguageSettings = () => {
         <h1>System Settings</h1>
         <nav className="languages-tabs">
           <button className="active">Languages</button>
-          <Link to="/Settings/AppearanceSettings">
-            <button>Appearance</button>
-          </Link>
+        
           <Link to="/Settings/SecurityScreen">
             <button>Security</button>
           </Link>

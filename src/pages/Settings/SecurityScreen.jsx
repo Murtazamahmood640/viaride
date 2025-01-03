@@ -55,9 +55,7 @@ const SecurityScreen = () => {
             <Link to="/Settings/LanguageSettings">
                 <button>Language</button>
                 </Link>
-              <Link to="/Settings/AppearanceSettings">
-                <button>Appearance</button>
-                </Link>
+             
                 <button className="active">Security</button>
 
             </nav>
